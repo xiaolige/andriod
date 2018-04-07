@@ -1,0 +1,76 @@
+<wordbook>
+	<item>
+		<word>MotionEvent</word>
+		<trans><![CDATA[屏幕触摸事件]]></trans>
+		<phonetic><![CDATA[]]>
+		</phonetic>
+		<tags>Android06_Screen Touch</tags>
+		<progress>0</progress>
+	</item>
+	<item>
+		<word>KeyEvent</word>
+		<trans><![CDATA[按钮事件]]></trans>
+		<phonetic><![CDATA[]]>
+		</phonetic>
+		<tags>Android06_Screen Touch</tags>
+		<progress>0</progress>
+	</item>
+	<item>
+		<word>raw</word>
+		<trans><![CDATA[adj. 原始的]]></trans>
+		<phonetic><![CDATA[[rɔː]]]></phonetic>
+		<tags>Android06_Screen Touch</tags>
+		<progress>0</progress>
+	</item>
+	<item>
+		<word>dispatch</word>
+		<trans><![CDATA[n. 分发; 分派]]></trans>
+		<phonetic><![CDATA[[dɪˈspætʃ]]]></phonetic>
+		<tags>Android06_Screen Touch</tags>
+		<progress>0</progress>
+	</item>
+	<item>
+		<word>LayoutParams</word>
+		<trans><![CDATA[布局参数]]></trans>
+		<phonetic><![CDATA[]]>
+		</phonetic>
+		<tags>Android06_Screen Touch</tags>
+		<progress>0</progress>
+	</item>
+	<item>
+		<word>keycode</word>
+		<trans><![CDATA[n. 键码]]></trans>
+		<phonetic><![CDATA[]]>
+		</phonetic>
+		<tags>Android06_Screen Touch</tags>
+		<progress>0</progress>
+	</item>
+	<item>
+		<word>down</word>
+		<trans><![CDATA[向下]]></trans>
+		<phonetic><![CDATA[[daʊn]]]></phonetic>
+		<tags>Android06_Screen Touch</tags>
+		<progress>0</progress>
+	</item>
+	<item>
+		<word>move</word>
+		<trans><![CDATA[移动]]></trans>
+		<phonetic><![CDATA[[muːv]]]></phonetic>
+		<tags>Android06_Screen Touch</tags>
+		<progress>0</progress>
+	</item>
+	<item>
+		<word>up</word>
+		<trans><![CDATA[起来/向上]]></trans>
+		<phonetic><![CDATA[[ʌp]]]></phonetic>
+		<tags>Android06_Screen Touch</tags>
+		<progress>0</progress>
+	</item>
+	<item>
+		<word>report</word>
+		<trans><![CDATA[报告；报道]]></trans>
+		<phonetic><![CDATA[[rɪ'pɔːt]]]></phonetic>
+		<tags>Android06_Screen Touch</tags>
+		<progress>0</progress>
+	</item>
+</wordbook>

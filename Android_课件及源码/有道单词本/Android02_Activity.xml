@@ -1,0 +1,180 @@
+<wordbook>
+	<item>
+		<word>BroadcastReceiver</word>
+		<trans><![CDATA[广播接收器]]></trans>
+		<phonetic><![CDATA[]]>
+		</phonetic>
+		<tags>Android02_Activity</tags>
+		<progress>1</progress>
+	</item>
+	<item>
+		<word>action</word>
+		<trans><![CDATA[n. 行动；行为]]></trans>
+		<phonetic><![CDATA[['ækʃ(ə)n]]]></phonetic>
+		<tags>Android02_Activity</tags>
+		<progress>1</progress>
+	</item>
+	<item>
+		<word>test cases</word>
+		<trans><![CDATA[测试案例(用例)]]></trans>
+		<phonetic><![CDATA[]]>
+		</phonetic>
+		<tags>Android02_Activity</tags>
+		<progress>1</progress>
+	</item>
+	<item>
+		<word>extra</word>
+		<trans><![CDATA[额外的]]></trans>
+		<phonetic><![CDATA[['ekstrə]]]></phonetic>
+		<tags>Android02_Activity</tags>
+		<progress>1</progress>
+	</item>
+	<item>
+		<word>finish</word>
+		<trans><![CDATA[vt. 结束, 完成]]></trans>
+		<phonetic><![CDATA[['fɪnɪʃ]]]></phonetic>
+		<tags>Android02_Activity</tags>
+		<progress>1</progress>
+	</item>
+	<item>
+		<word>resume</word>
+		<trans><![CDATA[恢复;继续]]></trans>
+		<phonetic><![CDATA[[rɪ'zjuːm]]]></phonetic>
+		<tags>Android02_Activity</tags>
+		<progress>1</progress>
+	</item>
+	<item>
+		<word>pause</word>
+		<trans><![CDATA[暂停]]></trans>
+		<phonetic><![CDATA[[pɔːz]]]></phonetic>
+		<tags>Android02_Activity</tags>
+		<progress>1</progress>
+	</item>
+	<item>
+		<word>task</word>
+		<trans><![CDATA[任务]]></trans>
+		<phonetic><![CDATA[[tɑːsk]]]></phonetic>
+		<tags>Android02_Activity</tags>
+		<progress>1</progress>
+	</item>
+	<item>
+		<word>stack</word>
+		<trans><![CDATA[栈]]></trans>
+		<phonetic><![CDATA[[stæk]]]></phonetic>
+		<tags>Android02_Activity</tags>
+		<progress>1</progress>
+	</item>
+	<item>
+		<word>standard</word>
+		<trans><![CDATA[标准的]]></trans>
+		<phonetic><![CDATA[['stændəd]]]></phonetic>
+		<tags>Android02_Activity</tags>
+		<progress>1</progress>
+	</item>
+	<item>
+		<word>single</word>
+		<trans><![CDATA[adj. 单例的, 单一的；单身的;]]></trans>
+		<phonetic><![CDATA[['sɪŋg(ə)l]]]></phonetic>
+		<tags>Android02_Activity</tags>
+		<progress>1</progress>
+	</item>
+	<item>
+		<word>component</word>
+		<trans><![CDATA[组件]]></trans>
+		<phonetic><![CDATA[[kəm'pəʊnənt]]]></phonetic>
+		<tags>Android02_Activity</tags>
+		<progress>1</progress>
+	</item>
+	<item>
+		<word>communication</word>
+		<trans><![CDATA[n.  通信；交流]]></trans>
+		<phonetic><![CDATA[[kəmjuːnɪ'keɪʃ(ə)n]]]></phonetic>
+		<tags>Android02_Activity</tags>
+		<progress>1</progress>
+	</item>
+	<item>
+		<word>explicit</word>
+		<trans><![CDATA[显式 | 明确的]]></trans>
+		<phonetic><![CDATA[[ɪk'splɪsɪt; ek-]]]></phonetic>
+		<tags>Android02_Activity</tags>
+		<progress>1</progress>
+	</item>
+	<item>
+		<word>implicit</word>
+		<trans><![CDATA[隐式的 | 含蓄的]]></trans>
+		<phonetic><![CDATA[[ɪm'plɪsɪt]]]></phonetic>
+		<tags>Android02_Activity</tags>
+		<progress>1</progress>
+	</item>
+	<item>
+		<word>provide</word>
+		<trans><![CDATA[vt. 提供；准备]]></trans>
+		<phonetic><![CDATA[[prə'vaɪd]]]></phonetic>
+		<tags>Android02_Activity</tags>
+		<progress>1</progress>
+	</item>
+	<item>
+		<word>screen</word>
+		<trans><![CDATA[n. 屏幕；屏风]]></trans>
+		<phonetic><![CDATA[[skriːn]]]></phonetic>
+		<tags>Android02_Activity</tags>
+		<progress>1</progress>
+	</item>
+	<item>
+		<word>interact</word>
+		<trans><![CDATA[interact: 交互 | 相互作用 | 互相作用]]></trans>
+		<phonetic><![CDATA[[ɪntər'ækt]]]></phonetic>
+		<tags>Android02_Activity</tags>
+		<progress>1</progress>
+	</item>
+	<item>
+		<word>draw</word>
+		<trans><![CDATA[vt. 画；绘制]]></trans>
+		<phonetic><![CDATA[[drɔː]]]></phonetic>
+		<tags>Android02_Activity</tags>
+		<progress>1</progress>
+	</item>
+	<item>
+		<word>message</word>
+		<trans><![CDATA[n. 消息]]></trans>
+		<phonetic><![CDATA[['mesɪdʒ]]]></phonetic>
+		<tags>Android02_Activity</tags>
+		<progress>1</progress>
+	</item>
+	<item>
+		<word>manager</word>
+		<trans><![CDATA[n.管理器;  经理；管理人员]]></trans>
+		<phonetic><![CDATA[['mænɪdʒə]]]></phonetic>
+		<tags>Android02_Activity</tags>
+		<progress>1</progress>
+	</item>
+	<item>
+		<word>SMS</word>
+		<trans><![CDATA[短讯服务（Short Messaging Service）]]></trans>
+		<phonetic><![CDATA[[,es em 'es]]]></phonetic>
+		<tags>Android02_Activity</tags>
+		<progress>1</progress>
+	</item>
+	<item>
+		<word>mode</word>
+		<trans><![CDATA[n. 模式；方式]]></trans>
+		<phonetic><![CDATA[[məʊd]]]></phonetic>
+		<tags>Android02_Activity</tags>
+		<progress>1</progress>
+	</item>
+	<item>
+		<word>content provider</word>
+		<trans><![CDATA[内容提供者；内容供应商]]></trans>
+		<phonetic><![CDATA[]]>
+		</phonetic>
+		<tags>Android02_Activity</tags>
+		<progress>1</progress>
+	</item>
+	<item>
+		<word>permission</word>
+		<trans><![CDATA[权限; 许可]]></trans>
+		<phonetic><![CDATA[[pə'mɪʃ(ə)n]]]></phonetic>
+		<tags>Android02_Activity</tags>
+		<progress>0</progress>
+	</item>
+</wordbook>

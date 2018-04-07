@@ -1,0 +1,95 @@
+<wordbook>
+	<item>
+		<word>Broadcast</word>
+		<trans><![CDATA[广播]]></trans>
+		<phonetic><![CDATA[['brɔːdkɑːst]]]></phonetic>
+		<tags>Android08_BroadcastReceiver</tags>
+		<progress>0</progress>
+	</item>
+	<item>
+		<word>receiver</word>
+		<trans><![CDATA[n. 接收器]]></trans>
+		<phonetic><![CDATA[[rɪ'siːvə]]]></phonetic>
+		<tags>Android08_BroadcastReceiver</tags>
+		<progress>0</progress>
+	</item>
+	<item>
+		<word>Ordered</word>
+		<trans><![CDATA[adj.有序的]]></trans>
+		<phonetic><![CDATA[['ɔːdəd]]]></phonetic>
+		<tags>Android08_BroadcastReceiver</tags>
+		<progress>0</progress>
+	</item>
+	<item>
+		<word>register</word>
+		<trans><![CDATA[vt. 注册]]></trans>
+		<phonetic><![CDATA[['redʒɪstə]]]></phonetic>
+		<tags>Android08_BroadcastReceiver</tags>
+		<progress>0</progress>
+	</item>
+	<item>
+		<word>abort</word>
+		<trans><![CDATA[vi. 中止; 流产]]></trans>
+		<phonetic><![CDATA[[ə'bɔːt]]]></phonetic>
+		<tags>Android08_BroadcastReceiver</tags>
+		<progress>0</progress>
+	</item>
+	<item>
+		<word>receive</word>
+		<trans><![CDATA[vt. 收到;  接收]]></trans>
+		<phonetic><![CDATA[[rɪ'siːv]]]></phonetic>
+		<tags>Android08_BroadcastReceiver</tags>
+		<progress>0</progress>
+	</item>
+	<item>
+		<word>priority</word>
+		<trans><![CDATA[n. 优先；优先级]]></trans>
+		<phonetic><![CDATA[[praɪ'ɒrɪtɪ]]]></phonetic>
+		<tags>Android08_BroadcastReceiver</tags>
+		<progress>0</progress>
+	</item>
+	<item>
+		<word>describe</word>
+		<trans><![CDATA[vt. 描述，形容；描绘]]></trans>
+		<phonetic><![CDATA[[dɪ'skraɪb]]]></phonetic>
+		<tags>Android08_BroadcastReceiver</tags>
+		<progress>0</progress>
+	</item>
+	<item>
+		<word>efficient</word>
+		<trans><![CDATA[adj. 有效率的；有能力的]]></trans>
+		<phonetic><![CDATA[[ɪ'fɪʃ(ə)nt]]]></phonetic>
+		<tags>Android08_BroadcastReceiver</tags>
+		<progress>0</progress>
+	</item>
+	<item>
+		<word>security</word>
+		<trans><![CDATA[n. 安全；保证
+adj. 安全的；]]></trans>
+		<phonetic><![CDATA[[sɪ'kjʊərɪtɪ; sɪ'kjɔːrɪtɪ]]]></phonetic>
+		<tags>Android08_BroadcastReceiver</tags>
+		<progress>0</progress>
+	</item>
+	<item>
+		<word>issues</word>
+		<trans><![CDATA[n. 问题; 议题]]></trans>
+		<phonetic><![CDATA[['ɪʃjʊ]]]></phonetic>
+		<tags>Android08_BroadcastReceiver</tags>
+		<progress>0</progress>
+	</item>
+	<item>
+		<word>dynamic</word>
+		<trans><![CDATA[adj. 动态的
+n. 动态；动力]]></trans>
+		<phonetic><![CDATA[[daɪ'næmɪk]]]></phonetic>
+		<tags>Android08_BroadcastReceiver</tags>
+		<progress>0</progress>
+	</item>
+	<item>
+		<word>major</word>
+		<trans><![CDATA[adj. 主要的, 重要的]]></trans>
+		<phonetic><![CDATA[['meɪdʒə]]]></phonetic>
+		<tags>Android08_BroadcastReceiver</tags>
+		<progress>0</progress>
+	</item>
+</wordbook>

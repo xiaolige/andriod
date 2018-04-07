@@ -1,0 +1,139 @@
+<wordbook>
+	<item>
+		<word>Graphics</word>
+		<trans><![CDATA[n. 图形; 图像]]></trans>
+		<phonetic><![CDATA[['græfɪks]]]></phonetic>
+		<tags>Android11_Graphics</tags>
+		<progress>0</progress>
+	</item>
+	<item>
+		<word>canvas</word>
+		<trans><![CDATA[n. 画布; 帆布]]></trans>
+		<phonetic><![CDATA[['kænvəs]]]></phonetic>
+		<tags>Android11_Graphics</tags>
+		<progress>0</progress>
+	</item>
+	<item>
+		<word>matrix</word>
+		<trans><![CDATA[n.  矩阵]]></trans>
+		<phonetic><![CDATA[['meɪtrɪks]]]></phonetic>
+		<tags>Android11_Graphics</tags>
+		<progress>0</progress>
+	</item>
+	<item>
+		<word>decode</word>
+		<trans><![CDATA[vt. 解码, 译码]]></trans>
+		<phonetic><![CDATA[[diː'kəʊd]]]></phonetic>
+		<tags>Android11_Graphics</tags>
+		<progress>0</progress>
+	</item>
+	<item>
+		<word>radius</word>
+		<trans><![CDATA[n. 半径]]></trans>
+		<phonetic><![CDATA[['reɪdɪəs]]]></phonetic>
+		<tags>Android11_Graphics</tags>
+		<progress>0</progress>
+	</item>
+	<item>
+		<word>corner</word>
+		<trans><![CDATA[n. 角落; 拐角; 角]]></trans>
+		<phonetic><![CDATA[['kɔːnə]]]></phonetic>
+		<tags>Android11_Graphics</tags>
+		<progress>0</progress>
+	</item>
+	<item>
+		<word>stroke</word>
+		<trans><![CDATA[n. 描边; 画]]></trans>
+		<phonetic><![CDATA[[strəʊk]]]></phonetic>
+		<tags>Android11_Graphics</tags>
+		<progress>0</progress>
+	</item>
+	<item>
+		<word>dash</word>
+		<trans><![CDATA[n. 破折号]]></trans>
+		<phonetic><![CDATA[[dæʃ]]]></phonetic>
+		<tags>Android11_Graphics</tags>
+		<progress>0</progress>
+	</item>
+	<item>
+		<word>gap</word>
+		<trans><![CDATA[n. 间隙；缺口；空白]]></trans>
+		<phonetic><![CDATA[[gæp]]]></phonetic>
+		<tags>Android11_Graphics</tags>
+		<progress>0</progress>
+	</item>
+	<item>
+		<word>solid</word>
+		<trans><![CDATA[n. 内部颜色填充; 固体；立方体]]></trans>
+		<phonetic><![CDATA[['sɒlɪd]]]></phonetic>
+		<tags>Android11_Graphics</tags>
+		<progress>0</progress>
+	</item>
+	<item>
+		<word>gradient</word>
+		<trans><![CDATA[渐变; 梯度]]></trans>
+		<phonetic><![CDATA[['greɪdɪənt]]]></phonetic>
+		<tags>Android11_Graphics</tags>
+		<progress>0</progress>
+	</item>
+	<item>
+		<word>selector</word>
+		<trans><![CDATA[n. 选择器]]></trans>
+		<phonetic><![CDATA[[sɪ'lektə]]]></phonetic>
+		<tags>Android11_Graphics</tags>
+		<progress>0</progress>
+	</item>
+	<item>
+		<word>patch</word>
+		<trans><![CDATA[n. 碎片]]></trans>
+		<phonetic><![CDATA[[pætʃ]]]></phonetic>
+		<tags>Android11_Graphics</tags>
+		<progress>0</progress>
+	</item>
+	<item>
+		<word>shape</word>
+		<trans><![CDATA[n. 形状；模型]]></trans>
+		<phonetic><![CDATA[[ʃeɪp]]]></phonetic>
+		<tags>Android11_Graphics</tags>
+		<progress>0</progress>
+	</item>
+	<item>
+		<word>oval</word>
+		<trans><![CDATA[adj. 椭圆的
+n. 椭圆形]]></trans>
+		<phonetic><![CDATA[['əʊv(ə)l]]]></phonetic>
+		<tags>Android11_Graphics</tags>
+		<progress>0</progress>
+	</item>
+	<item>
+		<word>bound</word>
+		<trans><![CDATA[n. 范围
+vi. 限制]]></trans>
+		<phonetic><![CDATA[[baʊnd]]]></phonetic>
+		<tags>Android11_Graphics</tags>
+		<progress>0</progress>
+	</item>
+	<item>
+		<word>antialias</word>
+		<trans><![CDATA[消除锯齿]]></trans>
+		<phonetic><![CDATA[['ænti'eiliəs]]]></phonetic>
+		<tags>Android11_Graphics</tags>
+		<progress>0</progress>
+	</item>
+	<item>
+		<word>popup window</word>
+		<trans><![CDATA[弹出式窗口]]></trans>
+		<phonetic><![CDATA[]]>
+		</phonetic>
+		<tags>Android11_Graphics</tags>
+		<progress>0</progress>
+	</item>
+	<item>
+		<word>dropdown</word>
+		<trans><![CDATA[vt. 下拉]]></trans>
+		<phonetic><![CDATA[]]>
+		</phonetic>
+		<tags>Android11_Graphics</tags>
+		<progress>0</progress>
+	</item>
+</wordbook>

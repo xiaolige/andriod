@@ -1,0 +1,220 @@
+<wordbook>
+	<item>
+		<word>datastorage</word>
+		<trans><![CDATA[数据存储]]></trans>
+		<phonetic><![CDATA[]]>
+		</phonetic>
+		<tags>Android04_Data Storage</tags>
+		<progress>0</progress>
+	</item>
+	<item>
+		<word>Sharedpreference</word>
+		<trans><![CDATA[首选项]]></trans>
+		<phonetic><![CDATA[]]>
+		</phonetic>
+		<tags>Android04_Data Storage</tags>
+		<progress>0</progress>
+	</item>
+	<item>
+		<word>SQlite</word>
+		<trans><![CDATA[一个轻量级别数据库]]></trans>
+		<phonetic><![CDATA[]]>
+		</phonetic>
+		<tags>Android04_Data Storage</tags>
+		<progress>0</progress>
+	</item>
+	<item>
+		<word>sd card</word>
+		<trans><![CDATA[SD卡; 存储卡]]></trans>
+		<phonetic><![CDATA[]]>
+		</phonetic>
+		<tags>Android04_Data Storage</tags>
+		<progress>0</progress>
+	</item>
+	<item>
+		<word>edit</word>
+		<trans><![CDATA[vt. 编辑]]></trans>
+		<phonetic><![CDATA[['edɪt]]]></phonetic>
+		<tags>Android04_Data Storage</tags>
+		<progress>0</progress>
+	</item>
+	<item>
+		<word>editor</word>
+		<trans><![CDATA[编辑器]]></trans>
+		<phonetic><![CDATA[['edɪtə]]]></phonetic>
+		<tags>Android04_Data Storage</tags>
+		<progress>0</progress>
+	</item>
+	<item>
+		<word>directory</word>
+		<trans><![CDATA[目录]]></trans>
+		<phonetic><![CDATA[[dɪ'rekt(ə)rɪ; daɪ-]]]></phonetic>
+		<tags>Android04_Data Storage</tags>
+		<progress>0</progress>
+	</item>
+	<item>
+		<word>environment</word>
+		<trans><![CDATA[n. 环境，外界]]></trans>
+		<phonetic><![CDATA[[ɪn'vaɪrənm(ə)nt; en-]]]></phonetic>
+		<tags>Android04_Data Storage</tags>
+		<progress>0</progress>
+	</item>
+	<item>
+		<word>external</word>
+		<trans><![CDATA[adj. 外部的]]></trans>
+		<phonetic><![CDATA[[ɪk'stɜːn(ə)l; ek-]]]></phonetic>
+		<tags>Android04_Data Storage</tags>
+		<progress>0</progress>
+	</item>
+	<item>
+		<word>media</word>
+		<trans><![CDATA[n. 媒体；媒质]]></trans>
+		<phonetic><![CDATA[['miːdɪə]]]></phonetic>
+		<tags>Android04_Data Storage</tags>
+		<progress>0</progress>
+	</item>
+	<item>
+		<word>mounted</word>
+		<trans><![CDATA[adj. 挂载上的; 安装好的]]></trans>
+		<phonetic><![CDATA[['maʊntɪd]]]></phonetic>
+		<tags>Android04_Data Storage</tags>
+		<progress>0</progress>
+	</item>
+	<item>
+		<word>cache</word>
+		<trans><![CDATA[缓存]]></trans>
+		<phonetic><![CDATA[[kæʃ]]]></phonetic>
+		<tags>Android04_Data Storage</tags>
+		<progress>0</progress>
+	</item>
+	<item>
+		<word>expert</word>
+		<trans><![CDATA[adj. 熟练的；内行的
+n. 专家；行家]]></trans>
+		<phonetic><![CDATA[['ekspɜːt]]]></phonetic>
+		<tags>Android04_Data Storage</tags>
+		<progress>0</progress>
+	</item>
+	<item>
+		<word>professional</word>
+		<trans><![CDATA[adj. 专业的；职业的；职业性的 
+n. 专业; 专业版]]></trans>
+		<phonetic><![CDATA[[prə'feʃ(ə)n(ə)l]]]></phonetic>
+		<tags>Android04_Data Storage</tags>
+		<progress>0</progress>
+	</item>
+	<item>
+		<word>exit</word>
+		<trans><![CDATA[退出]]></trans>
+		<phonetic><![CDATA[['eksɪt; 'egzɪt]]]></phonetic>
+		<tags>Android04_Data Storage</tags>
+		<progress>0</progress>
+	</item>
+	<item>
+		<word>autoincrement</word>
+		<trans><![CDATA[自动递增]]></trans>
+		<phonetic><![CDATA[]]>
+		</phonetic>
+		<tags>Android04_Data Storage</tags>
+		<progress>0</progress>
+	</item>
+	<item>
+		<word>primary key</word>
+		<trans><![CDATA[主键]]></trans>
+		<phonetic><![CDATA[]]>
+		</phonetic>
+		<tags>Android04_Data Storage</tags>
+		<progress>0</progress>
+	</item>
+	<item>
+		<word>cursor</word>
+		<trans><![CDATA[游标; 光标]]></trans>
+		<phonetic><![CDATA[['kɜːsə]]]></phonetic>
+		<tags>Android04_Data Storage</tags>
+		<progress>0</progress>
+	</item>
+	<item>
+		<word>upgrade</word>
+		<trans><![CDATA[升级]]></trans>
+		<phonetic><![CDATA[[ʌp'greɪd]]]></phonetic>
+		<tags>Android04_Data Storage</tags>
+		<progress>0</progress>
+	</item>
+	<item>
+		<word>flag</word>
+		<trans><![CDATA[标志; 标记]]></trans>
+		<phonetic><![CDATA[[flæg]]]></phonetic>
+		<tags>Android04_Data Storage</tags>
+		<progress>0</progress>
+	</item>
+	<item>
+		<word>column</word>
+		<trans><![CDATA[字段]]></trans>
+		<phonetic><![CDATA[['kɒləm]]]></phonetic>
+		<tags>Android04_Data Storage</tags>
+		<progress>0</progress>
+	</item>
+	<item>
+		<word>client</word>
+		<trans><![CDATA[客户端]]></trans>
+		<phonetic><![CDATA[['klaɪənt]]]></phonetic>
+		<tags>Android04_Data Storage</tags>
+		<progress>0</progress>
+	</item>
+	<item>
+		<word>volley</word>
+		<trans><![CDATA[n. 齐射; 群射]]></trans>
+		<phonetic><![CDATA[['vɒlɪ]]]></phonetic>
+		<tags>Android04_Data Storage</tags>
+		<progress>0</progress>
+	</item>
+	<item>
+		<word>timeout</word>
+		<trans><![CDATA[n. 超时]]></trans>
+		<phonetic><![CDATA[['taɪm'aʊt]]]></phonetic>
+		<tags>Android04_Data Storage</tags>
+		<progress>0</progress>
+	</item>
+	<item>
+		<word>entity</word>
+		<trans><![CDATA[实体]]></trans>
+		<phonetic><![CDATA[['entɪtɪ]]]></phonetic>
+		<tags>Android04_Data Storage</tags>
+		<progress>0</progress>
+	</item>
+	<item>
+		<word>status</word>
+		<trans><![CDATA[状态]]></trans>
+		<phonetic><![CDATA[['steɪtəs]]]></phonetic>
+		<tags>Android04_Data Storage</tags>
+		<progress>0</progress>
+	</item>
+	<item>
+		<word>shutdown</word>
+		<trans><![CDATA[关闭; 关机]]></trans>
+		<phonetic><![CDATA[['ʃʌtdaʊn]]]></phonetic>
+		<tags>Android04_Data Storage</tags>
+		<progress>0</progress>
+	</item>
+	<item>
+		<word>queue</word>
+		<trans><![CDATA[队列]]></trans>
+		<phonetic><![CDATA[[kjuː]]]></phonetic>
+		<tags>Android04_Data Storage</tags>
+		<progress>0</progress>
+	</item>
+	<item>
+		<word>instrumentation</word>
+		<trans><![CDATA[测试设备]]></trans>
+		<phonetic><![CDATA[[,ɪnstrʊmen'teɪʃ(ə)n]]]></phonetic>
+		<tags>Android04_Data Storage</tags>
+		<progress>0</progress>
+	</item>
+	<item>
+		<word>token</word>
+		<trans><![CDATA[令牌; 标记]]></trans>
+		<phonetic><![CDATA[['təʊk(ə)n]]]></phonetic>
+		<tags>Android04_Data Storage</tags>
+		<progress>0</progress>
+	</item>
+</wordbook>

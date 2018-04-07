@@ -1,0 +1,82 @@
+<wordbook>
+	<item>
+		<word>ContentProvider</word>
+		<trans><![CDATA[内容提供者]]></trans>
+		<phonetic><![CDATA[]]>
+		</phonetic>
+		<tags>Android09_ContentProvider</tags>
+		<progress>0</progress>
+	</item>
+	<item>
+		<word>ContentResolver</word>
+		<trans><![CDATA[内容解析器]]></trans>
+		<phonetic><![CDATA[]]>
+		</phonetic>
+		<tags>Android09_ContentProvider</tags>
+		<progress>0</progress>
+	</item>
+	<item>
+		<word>Contacts</word>
+		<trans><![CDATA[n. 联系人]]></trans>
+		<phonetic><![CDATA[['kɔntækts]]]></phonetic>
+		<tags>Android09_ContentProvider</tags>
+		<progress>0</progress>
+	</item>
+	<item>
+		<word>ContentObserver</word>
+		<trans><![CDATA[内容观察者]]></trans>
+		<phonetic><![CDATA[]]>
+		</phonetic>
+		<tags>Android09_ContentProvider</tags>
+		<progress>0</progress>
+	</item>
+	<item>
+		<word>notify</word>
+		<trans><![CDATA[vt. 通知；公布]]></trans>
+		<phonetic><![CDATA[['nəʊtɪfaɪ]]]></phonetic>
+		<tags>Android09_ContentProvider</tags>
+		<progress>0</progress>
+	</item>
+	<item>
+		<word>authority</word>
+		<trans><![CDATA[n. 权威；权力；当局]]></trans>
+		<phonetic><![CDATA[[ɔː'θɒrɪtɪ]]]></phonetic>
+		<tags>Android09_ContentProvider</tags>
+		<progress>0</progress>
+	</item>
+	<item>
+		<word>match</word>
+		<trans><![CDATA[vt. 匹配]]></trans>
+		<phonetic><![CDATA[[mætʃ]]]></phonetic>
+		<tags>Android09_ContentProvider</tags>
+		<progress>0</progress>
+	</item>
+	<item>
+		<word>parse</word>
+		<trans><![CDATA[vt. 解析]]></trans>
+		<phonetic><![CDATA[[pɑːz]]]></phonetic>
+		<tags>Android09_ContentProvider</tags>
+		<progress>0</progress>
+	</item>
+	<item>
+		<word>append</word>
+		<trans><![CDATA[vt. 附加]]></trans>
+		<phonetic><![CDATA[[ə'pend]]]></phonetic>
+		<tags>Android09_ContentProvider</tags>
+		<progress>0</progress>
+	</item>
+	<item>
+		<word>access</word>
+		<trans><![CDATA[vt. 使用；存取; 访问]]></trans>
+		<phonetic><![CDATA[['ækses]]]></phonetic>
+		<tags>Android09_ContentProvider</tags>
+		<progress>0</progress>
+	</item>
+	<item>
+		<word>encapsulate</word>
+		<trans><![CDATA[vt.将…封进内部;  压缩]]></trans>
+		<phonetic><![CDATA[[ɪn'kæpsjʊleɪt; en-]]]></phonetic>
+		<tags>Android09_ContentProvider</tags>
+		<progress>0</progress>
+	</item>
+</wordbook>

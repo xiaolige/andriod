@@ -1,0 +1,172 @@
+<wordbook>
+	<item>
+		<word>scale</word>
+		<trans><![CDATA[缩放]]></trans>
+		<phonetic><![CDATA[[skeɪl]]]></phonetic>
+		<tags>Android10_Animation</tags>
+		<progress>0</progress>
+	</item>
+	<item>
+		<word>rotate</word>
+		<trans><![CDATA[旋转]]></trans>
+		<phonetic><![CDATA[[rə(ʊ)'teɪt]]]></phonetic>
+		<tags>Android10_Animation</tags>
+		<progress>0</progress>
+	</item>
+	<item>
+		<word>alpha</word>
+		<trans><![CDATA[透明度]]></trans>
+		<phonetic><![CDATA[['ælfə]]]></phonetic>
+		<tags>Android10_Animation</tags>
+		<progress>0</progress>
+	</item>
+	<item>
+		<word>translate</word>
+		<trans><![CDATA[vt. 平移;  翻译]]></trans>
+		<phonetic><![CDATA[[træns'leɪt; trɑːns-; -nz-]]]></phonetic>
+		<tags>Android10_Animation</tags>
+		<progress>0</progress>
+	</item>
+	<item>
+		<word>duration</word>
+		<trans><![CDATA[n. 持续时间]]></trans>
+		<phonetic><![CDATA[[djʊ'reɪʃ(ə)n]]]></phonetic>
+		<tags>Android10_Animation</tags>
+		<progress>0</progress>
+	</item>
+	<item>
+		<word>offset</word>
+		<trans><![CDATA[n. 偏移; 位移]]></trans>
+		<phonetic><![CDATA[['ɒfset]]]></phonetic>
+		<tags>Android10_Animation</tags>
+		<progress>0</progress>
+	</item>
+	<item>
+		<word>fill</word>
+		<trans><![CDATA[vt. 固定; 装满]]></trans>
+		<phonetic><![CDATA[[fɪl]]]></phonetic>
+		<tags>Android10_Animation</tags>
+		<progress>0</progress>
+	</item>
+	<item>
+		<word>absolute</word>
+		<trans><![CDATA[adj. 绝对的；完全的
+n. 绝对]]></trans>
+		<phonetic><![CDATA[['æbsəluːt]]]></phonetic>
+		<tags>Android10_Animation</tags>
+		<progress>0</progress>
+	</item>
+	<item>
+		<word>self</word>
+		<trans><![CDATA[n. 自己]]></trans>
+		<phonetic><![CDATA[[self]]]></phonetic>
+		<tags>Android10_Animation</tags>
+		<progress>0</progress>
+	</item>
+	<item>
+		<word>parent</word>
+		<trans><![CDATA[n. 父亲]]></trans>
+		<phonetic><![CDATA[['peər(ə)nt]]]></phonetic>
+		<tags>Android10_Animation</tags>
+		<progress>0</progress>
+	</item>
+	<item>
+		<word>repeat</word>
+		<trans><![CDATA[vt. 重复
+n. 重复]]></trans>
+		<phonetic><![CDATA[[rɪ'piːt]]]></phonetic>
+		<tags>Android10_Animation</tags>
+		<progress>0</progress>
+	</item>
+	<item>
+		<word>pivot</word>
+		<trans><![CDATA[n. 支点; 转轴]]></trans>
+		<phonetic><![CDATA[['pɪvət]]]></phonetic>
+		<tags>Android10_Animation</tags>
+		<progress>0</progress>
+	</item>
+	<item>
+		<word>degree</word>
+		<trans><![CDATA[n. 角度; 程度，等级]]></trans>
+		<phonetic><![CDATA[[dɪ'griː]]]></phonetic>
+		<tags>Android10_Animation</tags>
+		<progress>0</progress>
+	</item>
+	<item>
+		<word>interpolator</word>
+		<trans><![CDATA[n. 窜改者，插入器；内插程序]]></trans>
+		<phonetic><![CDATA[[in'tə:pəuleitə]]]></phonetic>
+		<tags>Android10_Animation</tags>
+		<progress>0</progress>
+	</item>
+	<item>
+		<word>delta</word>
+		<trans><![CDATA[n. 坐标]]></trans>
+		<phonetic><![CDATA[['deltə]]]></phonetic>
+		<tags>Android10_Animation</tags>
+		<progress>0</progress>
+	</item>
+	<item>
+		<word>accelerate</word>
+		<trans><![CDATA[vt. 加速]]></trans>
+		<phonetic><![CDATA[[ək'seləreɪt]]]></phonetic>
+		<tags>Android10_Animation</tags>
+		<progress>0</progress>
+	</item>
+	<item>
+		<word>decelerate</word>
+		<trans><![CDATA[vi. 减速]]></trans>
+		<phonetic><![CDATA[[diː'seləreɪt]]]></phonetic>
+		<tags>Android10_Animation</tags>
+		<progress>0</progress>
+	</item>
+	<item>
+		<word>cycle</word>
+		<trans><![CDATA[n. 循环]]></trans>
+		<phonetic><![CDATA[['saɪk(ə)l]]]></phonetic>
+		<tags>Android10_Animation</tags>
+		<progress>0</progress>
+	</item>
+	<item>
+		<word>indeterminate</word>
+		<trans><![CDATA[adj. 不确定的；模糊的；含混的]]></trans>
+		<phonetic><![CDATA[[,ɪndɪ'tɜːmɪnət]]]></phonetic>
+		<tags>Android10_Animation</tags>
+		<progress>0</progress>
+	</item>
+	<item>
+		<word>scan</word>
+		<trans><![CDATA[vt. 扫描]]></trans>
+		<phonetic><![CDATA[[skæn]]]></phonetic>
+		<tags>Android10_Animation</tags>
+		<progress>0</progress>
+	</item>
+	<item>
+		<word>transition</word>
+		<trans><![CDATA[n.过渡; 转换]]></trans>
+		<phonetic><![CDATA[[træn'zɪʃ(ə)n; trɑːn-; -'sɪʃ-]]]></phonetic>
+		<tags>Android10_Animation</tags>
+		<progress>0</progress>
+	</item>
+	<item>
+		<word>shake</word>
+		<trans><![CDATA[vt. 摇动; 震动; 颤抖]]></trans>
+		<phonetic><![CDATA[[ʃeɪk]]]></phonetic>
+		<tags>Android10_Animation</tags>
+		<progress>0</progress>
+	</item>
+	<item>
+		<word>root</word>
+		<trans><![CDATA[n.根；根源]]></trans>
+		<phonetic><![CDATA[[ruːt]]]></phonetic>
+		<tags>Android10_Animation</tags>
+		<progress>0</progress>
+	</item>
+	<item>
+		<word>paint</word>
+		<trans><![CDATA[画笔]]></trans>
+		<phonetic><![CDATA[[peɪnt]]]></phonetic>
+		<tags>Android10_Animation</tags>
+		<progress>0</progress>
+	</item>
+</wordbook>

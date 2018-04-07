@@ -1,0 +1,147 @@
+<wordbook>
+	<item>
+		<word>install</word>
+		<trans><![CDATA[vt. 安装]]></trans>
+		<phonetic><![CDATA[[ɪn'stɔl]]]></phonetic>
+		<tags>Android12_Other</tags>
+		<progress>1</progress>
+	</item>
+	<item>
+		<word>upload</word>
+		<trans><![CDATA[vt. 上传]]></trans>
+		<phonetic><![CDATA[[ʌp'ləʊd]]]></phonetic>
+		<tags>Android12_Other</tags>
+		<progress>1</progress>
+	</item>
+	<item>
+		<word>compat</word>
+		<trans><![CDATA[n. 兼容]]></trans>
+		<phonetic><![CDATA[]]>
+		</phonetic>
+		<tags>Android12_Other</tags>
+		<progress>1</progress>
+	</item>
+	<item>
+		<word>compose</word>
+		<trans><![CDATA[vt.组成]]></trans>
+		<phonetic><![CDATA[[kəm'pəʊz]]]></phonetic>
+		<tags>Android12_Other</tags>
+		<progress>1</progress>
+	</item>
+	<item>
+		<word>terminate</word>
+		<trans><![CDATA[ 结束，终止
+]]></trans>
+		<phonetic><![CDATA[['tɜːmɪneɪt]]]></phonetic>
+		<tags>Android12_Other</tags>
+		<progress>1</progress>
+	</item>
+	<item>
+		<word>activate</word>
+		<trans><![CDATA[vt. 刺激]]></trans>
+		<phonetic><![CDATA[['æktɪveɪt]]]></phonetic>
+		<tags>Android12_Other</tags>
+		<progress>1</progress>
+	</item>
+	<item>
+		<word>indicator</word>
+		<trans><![CDATA[n. 指示器]]></trans>
+		<phonetic><![CDATA[['ɪndɪkeɪtə]]]></phonetic>
+		<tags>Android12_Other</tags>
+		<progress>1</progress>
+	</item>
+	<item>
+		<word>fragment</word>
+		<trans><![CDATA[n. 碎片]]></trans>
+		<phonetic><![CDATA[['frægm(ə)nt]]]></phonetic>
+		<tags>Android12_Other</tags>
+		<progress>1</progress>
+	</item>
+	<item>
+		<word>Transaction</word>
+		<trans><![CDATA[事务]]></trans>
+		<phonetic><![CDATA[]]>
+		</phonetic>
+		<tags>Android12_Other</tags>
+		<progress>1</progress>
+	</item>
+	<item>
+		<word>ANR</word>
+		<trans><![CDATA[应用没有响应
+Application Not Responding]]></trans>
+		<phonetic><![CDATA[]]>
+		</phonetic>
+		<tags>Android12_Other</tags>
+		<progress>1</progress>
+	</item>
+	<item>
+		<word>support</word>
+		<trans><![CDATA[vt. 支持]]></trans>
+		<phonetic><![CDATA[[sə'pɔːt]]]></phonetic>
+		<tags>Android12_Other</tags>
+		<progress>1</progress>
+	</item>
+	<item>
+		<word>choice</word>
+		<trans><![CDATA[n. 选择]]></trans>
+		<phonetic><![CDATA[[tʃɒɪs]]]></phonetic>
+		<tags>Android12_Other</tags>
+		<progress>1</progress>
+	</item>
+	<item>
+		<word>represent</word>
+		<trans><![CDATA[vt. 代表]]></trans>
+		<phonetic><![CDATA[[reprɪ'zent]]]></phonetic>
+		<tags>Android12_Other</tags>
+		<progress>1</progress>
+	</item>
+	<item>
+		<word>behavior</word>
+		<trans><![CDATA[n. 行为]]></trans>
+		<phonetic><![CDATA[[bɪ'hevjɚ]]]></phonetic>
+		<tags>Android12_Other</tags>
+		<progress>1</progress>
+	</item>
+	<item>
+		<word>portion</word>
+		<trans><![CDATA[n. 部分]]></trans>
+		<phonetic><![CDATA[['pɔːʃ(ə)n]]]></phonetic>
+		<tags>Android12_Other</tags>
+		<progress>1</progress>
+	</item>
+	<item>
+		<word>combine</word>
+		<trans><![CDATA[联合，结合]]></trans>
+		<phonetic><![CDATA[[kəm'baɪn]]]></phonetic>
+		<tags>Android12_Other</tags>
+		<progress>1</progress>
+	</item>
+	<item>
+		<word>multiple</word>
+		<trans><![CDATA[adj. 多重的；多样的]]></trans>
+		<phonetic><![CDATA[['mʌltɪpl]]]></phonetic>
+		<tags>Android12_Other</tags>
+		<progress>1</progress>
+	</item>
+	<item>
+		<word>modular</word>
+		<trans><![CDATA[adj. 模块化的]]></trans>
+		<phonetic><![CDATA[['mɒdjʊlə]]]></phonetic>
+		<tags>Android12_Other</tags>
+		<progress>1</progress>
+	</item>
+	<item>
+		<word>lifecycle</word>
+		<trans><![CDATA[生命周期]]></trans>
+		<phonetic><![CDATA[[laɪf'saɪkl]]]></phonetic>
+		<tags>Android12_Other</tags>
+		<progress>1</progress>
+	</item>
+	<item>
+		<word>embedded</word>
+		<trans><![CDATA[v. 嵌入]]></trans>
+		<phonetic><![CDATA[[ɪm'bɛdid]]]></phonetic>
+		<tags>Android12_Other</tags>
+		<progress>1</progress>
+	</item>
+</wordbook>

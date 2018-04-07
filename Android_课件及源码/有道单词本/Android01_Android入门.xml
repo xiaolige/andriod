@@ -1,0 +1,345 @@
+<wordbook>
+	<item>
+		<word>Android</word>
+		<trans><![CDATA[n. 机器人；安卓操作系统]]></trans>
+		<phonetic><![CDATA[['ændrɔɪd]]]></phonetic>
+		<tags>Android01_Android入门</tags>
+		<progress>1</progress>
+	</item>
+	<item>
+		<word>QuickStart</word>
+		<trans><![CDATA[n. 快速入门]]></trans>
+		<phonetic><![CDATA[]]>
+		</phonetic>
+		<tags>Android01_Android入门</tags>
+		<progress>1</progress>
+	</item>
+	<item>
+		<word>application</word>
+		<trans><![CDATA[n. 应用; 应用程序]]></trans>
+		<phonetic><![CDATA[[ˌæplɪ'keɪʃ(ə)n]]]></phonetic>
+		<tags>Android01_Android入门</tags>
+		<progress>1</progress>
+	</item>
+
+
+	<item>
+		<word>Virtual</word>
+		<trans><![CDATA[虚拟的]]></trans>
+		<phonetic><![CDATA[['vɜːtjʊəl]]]></phonetic>
+		<tags>Android01_Android入门</tags>
+		<progress>1</progress>
+	</item>
+	<item>
+		<word>activity</word>
+		<trans><![CDATA[活动；行动]]></trans>
+		<phonetic><![CDATA[[æk'tɪvɪtɪ]]]></phonetic>
+		<tags>Android01_Android入门</tags>
+		<progress>1</progress>
+	</item>
+	<item>
+		<word>manifest</word>
+		<trans><![CDATA[功能清单]]></trans>
+		<phonetic><![CDATA[['mænɪfest]]]></phonetic>
+		<tags>Android01_Android入门</tags>
+		<progress>1</progress>
+	</item>
+	<item>
+		<word>ADB</word>
+		<trans><![CDATA[Android调试桥工具(Android Debug Bridge)]]></trans>
+		<phonetic><![CDATA[]]>
+		</phonetic>
+		<tags>Android01_Android入门</tags>
+		<progress>1</progress>
+	</item>
+	
+	
+	<item>
+		<word>framework</word>
+		<trans><![CDATA[n. 框架]]></trans>
+		<phonetic><![CDATA[['freɪmwɜːk]]]></phonetic>
+		<tags>Android01_Android入门</tags>
+		<progress>1</progress>
+	</item>
+	<item>
+		<word>library</word>
+		<trans><![CDATA[n.库]]></trans>
+		<phonetic><![CDATA[['laɪbrərɪ; -brɪ]]]></phonetic>
+		<tags>Android01_Android入门</tags>
+		<progress>1</progress>
+	</item>
+	<item>
+		<word>dalvik</word>
+		<trans><![CDATA[Dalvik虚拟机 | 虚拟机]]></trans>
+		<phonetic><![CDATA[]]>
+		</phonetic>
+		<tags>Android01_Android入门</tags>
+		<progress>1</progress>
+	</item>
+	<item>
+		<word>kernel</word>
+		<trans><![CDATA[n.内核]]></trans>
+		<phonetic><![CDATA[['kɜːn(ə)l]]]></phonetic>
+		<tags>Android01_Android入门</tags>
+		<progress>1</progress>
+	</item>
+	<item>
+		<word>view</word>
+		<trans><![CDATA[视图]]></trans>
+		<phonetic><![CDATA[[vjuː]]]></phonetic>
+		<tags>Android01_Android入门</tags>
+		<progress>1</progress>
+	</item>
+	<item>
+		<word>service</word>
+		<trans><![CDATA[n. 服务]]></trans>
+		<phonetic><![CDATA[['sɜːvɪs]]]></phonetic>
+		<tags>Android01_Android入门</tags>
+		<progress>1</progress>
+	</item>
+	<item>
+		<word>content</word>
+		<trans><![CDATA[n. 内容]]></trans>
+		<phonetic><![CDATA[[kən'tent]]]></phonetic>
+		<tags>Android01_Android入门</tags>
+		<progress>1</progress>
+	</item>
+	<item>
+		<word>context</word>
+		<trans><![CDATA[n. 环境；上下文；]]></trans>
+		<phonetic><![CDATA[['kɒntekst]]]></phonetic>
+		<tags>Android01_Android入门</tags>
+		<progress>1</progress>
+	</item>
+	<item>
+		<word>SDK</word>
+		<trans><![CDATA[软件开发工具包（Software Development Kit）]]></trans>
+		<phonetic><![CDATA[]]>
+		</phonetic>
+		<tags>Android01_Android入门</tags>
+		<progress>1</progress>
+	</item>
+	<item>
+		<word>ADT</word>
+		<trans><![CDATA[Android Develop Tool Android开必工具包
+针对eclipse的插件]]></trans>
+		<phonetic><![CDATA[]]>
+		</phonetic>
+		<tags>Android01_Android入门</tags>
+		<progress>1</progress>
+	</item>
+	<item>
+		<word>generate</word>
+		<trans><![CDATA[生成]]></trans>
+		<phonetic><![CDATA[['dʒenə,reɪt]]]></phonetic>
+		<tags>Android01_Android入门</tags>
+		<progress>1</progress>
+	</item>
+	<item>
+		<word>asset</word>
+		<trans><![CDATA[n. 资产]]></trans>
+		<phonetic><![CDATA[['æset]]]></phonetic>
+		<tags>Android01_Android入门</tags>
+		<progress>1</progress>
+	</item>
+	<item>
+		<word>resource</word>
+		<trans><![CDATA[n. 资源]]></trans>
+		<phonetic><![CDATA[[rɪ'sɔːs]]]></phonetic>
+		<tags>Android01_Android入门</tags>
+		<progress>1</progress>
+	</item>
+	<item>
+		<word>drawable</word>
+		<trans><![CDATA[n. 图片, 可绘制的对象]]></trans>
+		<phonetic><![CDATA[['drɔəbl]]]></phonetic>
+		<tags>Android01_Android入门</tags>
+		<progress>1</progress>
+	</item>
+	<item>
+		<word>layout</word>
+		<trans><![CDATA[n. 布局]]></trans>
+		<phonetic><![CDATA[['leɪaʊt]]]></phonetic>
+		<tags>Android01_Android入门</tags>
+		<progress>1</progress>
+	</item>
+	<item>
+		<word>LinearLayout</word>
+		<trans><![CDATA[线性布局]]></trans>
+		<phonetic><![CDATA[]]>
+		</phonetic>
+		<tags>Android01_Android入门</tags>
+		<progress>1</progress>
+	</item>
+	<item>
+		<word>RelativeLayout</word>
+		<trans><![CDATA[相对布局]]></trans>
+		<phonetic><![CDATA[]]>
+		</phonetic>
+		<tags>Android01_Android入门</tags>
+		<progress>1</progress>
+	</item>
+	<item>
+		<word>style</word>
+		<trans><![CDATA[n.样式, 风格]]></trans>
+		<phonetic><![CDATA[[staɪl]]]></phonetic>
+		<tags>Android01_Android入门</tags>
+		<progress>1</progress>
+	</item>
+	<item>
+		<word>theme</word>
+		<trans><![CDATA[n. 主题；主旋律]]></trans>
+		<phonetic><![CDATA[[θiːm]]]></phonetic>
+		<tags>Android01_Android入门</tags>
+		<progress>1</progress>
+	</item>
+	<item>
+		<word>Dimens</word>
+		<trans><![CDATA[尺寸]]></trans>
+		<phonetic><![CDATA[]]>
+		</phonetic>
+		<tags>Android01_Android入门</tags>
+		<progress>1</progress>
+	</item>
+	<item>
+		<word>APK</word>
+		<trans><![CDATA[APK: 应用安装包Android Package Kit的缩写]]></trans>
+		<phonetic><![CDATA[]]>
+		</phonetic>
+		<tags>Android01_Android入门</tags>
+		<progress>1</progress>
+	</item>
+	<item>
+		<word>storage</word>
+		<trans><![CDATA[n. 存储]]></trans>
+		<phonetic><![CDATA[['stɔːrɪdʒ]]]></phonetic>
+		<tags>Android01_Android入门</tags>
+		<progress>1</progress>
+	</item>
+	<item>
+		<word>DDMS</word>
+		<trans><![CDATA[DDMS: 调试监控服务工具(Dalvik Debug Monitor Service)]]></trans>
+		<phonetic><![CDATA[]]>
+		</phonetic>
+		<tags>Android01_Android入门</tags>
+		<progress>1</progress>
+	</item>
+	<item>
+		<word>devices</word>
+		<trans><![CDATA[n. 设备]]></trans>
+		<phonetic><![CDATA[]]>
+		</phonetic>
+		<tags>Android01_Android入门</tags>
+		<progress>1</progress>
+	</item>
+	<item>
+		<word>LogCat</word>
+		<trans><![CDATA[日志工具 | 日志调试]]></trans>
+		<phonetic><![CDATA[]]>
+		</phonetic>
+		<tags>Android01_Android入门</tags>
+		<progress>1</progress>
+	</item>
+	<item>
+		<word>emulator</word>
+		<trans><![CDATA[n. 模拟器]]></trans>
+		<phonetic><![CDATA[['emjʊleɪtə]]]></phonetic>
+		<tags>Android01_Android入门</tags>
+		<progress>1</progress>
+	</item>
+	<item>
+		<word>density</word>
+		<trans><![CDATA[n. 密度]]></trans>
+		<phonetic><![CDATA[['densɪtɪ]]]></phonetic>
+		<tags>Android01_Android入门</tags>
+		<progress>1</progress>
+	</item>
+	<item>
+		<word>create</word>
+		<trans><![CDATA[vt. 创造, 创建]]></trans>
+		<phonetic><![CDATA[[kriː'eɪt]]]></phonetic>
+		<tags>Android01_Android入门</tags>
+		<progress>1</progress>
+	</item>
+	<item>
+		<word>toast</word>
+		<trans><![CDATA[n. 烤面包；吐司
+Android中的一个界面小提示]]></trans>
+		<phonetic><![CDATA[[təʊst]]]></phonetic>
+		<tags>Android01_Android入门</tags>
+		<progress>1</progress>
+	</item>
+	<item>
+		<word>target</word>
+		<trans><![CDATA[n. 目标]]></trans>
+		<phonetic><![CDATA[['tɑːgɪt]]]></phonetic>
+		<tags>Android01_Android入门</tags>
+		<progress>1</progress>
+	</item>
+	<item>
+		<word>icon</word>
+		<trans><![CDATA[n. 图标]]></trans>
+		<phonetic><![CDATA[['aɪkɒn; -k(ə)n]]]></phonetic>
+		<tags>Android01_Android入门</tags>
+		<progress>1</progress>
+	</item>
+	<item>
+		<word>label</word>
+		<trans><![CDATA[n. 标签,名称]]></trans>
+		<phonetic><![CDATA[['leɪb(ə)l]]]></phonetic>
+		<tags>Android01_Android入门</tags>
+		<progress>1</progress>
+	</item>
+	<item>
+		<word>intent</word>
+		<trans><![CDATA[n. 意图]]></trans>
+		<phonetic><![CDATA[[ɪn'tent]]]></phonetic>
+		<tags>Android01_Android入门</tags>
+		<progress>1</progress>
+	</item>
+	<item>
+		<word>category</word>
+		<trans><![CDATA[n. 种类，分类]]></trans>
+		<phonetic><![CDATA[['kætɪg(ə)rɪ]]]></phonetic>
+		<tags>Android01_Android入门</tags>
+		<progress>1</progress>
+	</item>
+	<item>
+		<word>launcher</word>
+		<trans><![CDATA[n. 启动器
+Android的桌面应用]]></trans>
+		<phonetic><![CDATA[['lɔːn(t)ʃə]]]></phonetic>
+		<tags>Android01_Android入门</tags>
+		<progress>1</progress>
+	</item>
+	<item>
+		<word>listener</word>
+		<trans><![CDATA[监听器]]></trans>
+		<phonetic><![CDATA[['lɪs(ə)nə]]]></phonetic>
+		<tags>Android01_Android入门</tags>
+		<progress>1</progress>
+	</item>
+	<item>
+		<word>guide</word>
+		<trans><![CDATA[n. 指南；向导]]></trans>
+		<phonetic><![CDATA[[gaɪd]]]></phonetic>
+		<tags>Android01_Android入门</tags>
+		<progress>1</progress>
+	</item>
+	<item>
+		<word>UI</word>
+		<trans><![CDATA[用户界面（user interface）]]></trans>
+		<phonetic><![CDATA[[,ju 'aɪ]]]></phonetic>
+		<tags>Android01_Android入门</tags>
+		<progress>1</progress>
+	</item>
+	<item>
+		<word>show</word>
+		<trans><![CDATA[vt. 显示；说明]]></trans>
+		<phonetic><![CDATA[[ʃəʊ]]]></phonetic>
+		<tags>
+			Android01_Android入门
+		</tags>
+		<progress>0</progress>
+	</item>
+</wordbook>
